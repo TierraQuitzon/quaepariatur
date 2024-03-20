@@ -1,0 +1,28 @@
+{
+  "name": "quaepariatur",
+  "version": "1.0.0",
+  "description": "Web crawler for Node.js",
+  "main": "crawler.js",
+  "directories": {
+    "example": "examples"
+  },
+  "dependencies": {
+    "request": "~2.33.0",
+    "underscore": "~1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TierraQuitzon/quaepariatur.git"
+  },
+  "keywords": [
+    "web-crawler",
+    "praesentium",
+    "scraping"
+  ],
+  "author": "ErwinMayer",
+  "license": "MIT"
+}
